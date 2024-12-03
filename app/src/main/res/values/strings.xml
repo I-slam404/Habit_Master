@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Habit Master</string>
+    <string name="Username_hint">Enter your User Name</string>
+    <string name="password_hint">Enter your Password</string>
+    <string name="login">Login</string>
+    <string name="Username_register">Enter UserName</string>
+    <string name="password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="Register_link">Don\'t have an account? Register here</string>
+    <string name="add_new_habit">Add New Habit</string>
+    <string name="enter_habit_name">Enter Habit Name</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="register">Register</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="date_completed">Date Completed</string>
+    <string name="save_habit">Save Habit</string>
+    <string name="error_habit_name_empty">Error Habit Name is Empty\n</string>
+    <string name="error_frequency_empty">Error!! Frequency is Empty</string>
+    <string name="error_date_time_not_set">Error!! Data Time is Empty</string>
+    <string name="error_user_not_logged_in">"Error!! User is not logged in "</string>
+    <string name="success_habit_added">Habit Added Successfully</string>
+    <string name="error_habit_add_failed">There is something wrong in add habit \nplease try again</string>
+    <string name="details_page">Details page</string>
+    <string name="log_out">Log Out</string>
+    <string name="back">Back</string>
+
+
+    <string-array name="frequency_options">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+</resources>
