@@ -1,3 +1,5 @@
+HabitMaster is an Android app developed in java that helps users build, track, and maintain healthy habits for personal growth and a better lifestyle. With features like goal setting, custom routines, and progress tracking, it keeps users motivated to achieve long-term goals in areas like health, fitness, productivity, and mental well-being.
+
 Key Features:
 
 •	Habit Creation: Users can define new habits with detailed attributes like habit name, frequency (daily, weekly, or custom intervals), priority (low, medium, high), and category (e.g., health, productivity, mindfulness). This customization helps users align their habits with personal objectives.
